@@ -62,11 +62,4 @@ Email Verification Page :-
 
 ![Screenshot 9](./screenshots/Screenshot%20(9).png)
 
-Welcome Page :-
-
-![Screenshot 10](./screenshots/Screenshot%20(10).png)
-
-Email Notifications :-
-
-![Screenshot 4](./screenshots/Screenshot%20(4).png)
 
