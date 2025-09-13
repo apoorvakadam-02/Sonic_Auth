@@ -1,4 +1,4 @@
-# 🔓 XpressAuth: MERN Authentication App 
+# 🔓 SonicAuth: MERN Authentication App 
 
 A robust MERN stack application that implements user authentication with features like password reset, email verification, and email notifications. This project showcases secure and scalable authentication practices. 
 
@@ -70,6 +70,3 @@ Email Notifications :-
 
 ![Screenshot 4](./screenshots/Screenshot%20(4).png)
 
-## ✉️ Contact
-
-For any questions, please contact me at varad.manegopale28@gmail.com or open an issue on GitHub.
